@@ -1,1 +1,2 @@
-# growth-stack
+# Growth Stack
+### Open-sourcing LinkedIn Growth
